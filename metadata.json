@@ -1,0 +1,6 @@
+{
+  "name": "AI Architect",
+  "description": "Aplikasi arsitek AI untuk menganalisis kode sumber dan menyusun aplikasi Android dengan tema Bold Typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
